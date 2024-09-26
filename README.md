@@ -41,13 +41,15 @@ User
 
 ## UML
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+![Cuplikan layar 2024-09-26 170019](https://github.com/user-attachments/assets/8d4ce5eb-33e3-4c22-b179-587c6bd519c9)
 
-## Code of Conduct
+## Teknologi Yang Digunakan
+- Laravel 11
+- Bootstrap
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+## Dibuat Oleh
+Isna Rahmadani
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
